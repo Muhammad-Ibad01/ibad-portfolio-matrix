@@ -5,7 +5,7 @@ import { useReducedMotion } from "framer-motion";
 import { useTerminalType } from "@/hooks/useTerminalType";
 import { BlinkingCursor } from "./BlinkingCursor";
 
-const gh = "https://github.com/ibadfiction";
+// const gh = "https://github.com/ibadfiction";
 const li = "https://www.linkedin.com/in/muhammad-ibad-776a51123";
 
 export function Footer() {
