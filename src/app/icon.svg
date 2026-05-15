@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="ibad.dev">
+  <rect width="32" height="32" rx="5" fill="#0d1117"/>
+  <path fill="#00ff88" d="M7 6h4v20H7z"/>
+  <path fill="#58a6ff" d="M14 9h11v2.5H14zm0 6h9v2.5h-9zm0 6h11v2.5H14z" opacity="0.9"/>
+</svg>
